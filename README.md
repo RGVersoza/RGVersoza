@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rods</h1>
+<h1 align="center">Hi 👋, I'm Rods</h1>
 <h3 align="center">Committed web developer from the Philippines, very passionate about front-end work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgversoza&label=Profile%20views&color=b40e0e&style=flat" alt="rgversoza" /> </p>

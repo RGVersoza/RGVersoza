@@ -1,8 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋+I'm+Rods;Web+Developer+from+🇵🇭;Crafting+Digital+Experiences;Welcome+to+My+Code+Universe!" alt="Typing SVG" />    <!-- Profile Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:1d4ed8&height=200&section=header&text=Rodrigo%20Gem%20Versoza&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋+I'm+Rods;Web+Developer+from+🇵🇭;Crafting+Digital+Experiences;Welcome+to+My+Code+Universe!" alt="Typing SVG" />
+  
+  <!-- Profile Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rodrigo%20Versoza&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
   
   <!-- Profile Views with Style -->
   <img src="https://komarev.com/ghpvc/?username=rgversoza&label=Profile%20Visitors&color=00D4FF&style=for-the-badge" alt="Profile Views" />
@@ -15,12 +17,12 @@
 
 ```javascript
 const rods = {
-  name: "Rodrigo Gem Versoza",
+  name: "Rodrigo Versoza",
   location: "Philippines 🇵🇭",
-  role: "Web Developer",
+  role: "Front-End Developer",
   passion: ["Web Development", "UI/UX Design", "Clean Code"],
   currentFocus: "Building Amazing Web Experiences",
-  lifePhilosophy: "Every project, every new technology, every challenge — it's all about taking that leap.",
+  lifePhilosophy: "Code with purpose, design with passion",
 
   getCurrentStatus: function () {
     return "Transforming ideas into interactive digital experiences ✨";
@@ -49,20 +51,16 @@ const rods = {
 <div align="center">
 
 ### **Frontend Magic** ✨
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" />
 
 ### **Backend Power** ⚡
+
 <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql" />
 
-### **Laravel Ecosystem** 🚀
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-<img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament" />
+### **Tools & Environment** 🛠️
 
-### **Development Tools** 🛠️
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,linux,photoshop,postman" />
-
-### **Environment** 💻
-<img src="https://img.shields.io/badge/VM-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VM" />
+<img src="https://skillicons.dev/icons?i=git,bash,linux,photoshop,postman" />
 
 </div>
 
@@ -88,28 +86,27 @@ const rods = {
 
 > _"Every line of code tells a story, every project solves a problem, and every commit brings dreams closer to reality."_
 
+🎯 **My Mission**: Creating web experiences that don't just function, but inspire and delight users
+
 🌱 **Currently Growing**: Expanding my frontend expertise and exploring modern web technologies
 
 🎨 **Design Philosophy**: Beauty in simplicity, power in functionality
 
-🚀 **Next Chapter**: Building more projects and growing as a developer
+🚀 **Next Chapter**: Building projects that make a difference in people's digital lives
 
 ---
 
 ## 💌 **Let's Build Something Amazing Together**
 
 <div align="center">
-    <!-- Contact Cards -->
+  
+  <!-- Contact Cards -->
   <a href="mailto:rodrigogemversoza15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
   <a href="https://rods-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/rgversoza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
   <!-- Social Links Section - Add your social media when ready -->
@@ -131,20 +128,8 @@ const rods = {
 
 <div align="center">
   
-  <!-- Spotify Playlist -->
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rgversoza&redirect=true&width=400&height=120&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playlist" />
-  
-  <!-- Typing Test Game -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&height=50&lines=⌨️+Typing+Speed%3A+Challenge+Accepted!;🎯+WPM%3A+Fast+fingers+at+work;💻+Code+typing+in+progress..." alt="Typing Test" />
-  
-  <!-- Tic Tac Toe Game -->
-  <img src="https://img.shields.io/badge/🎯_Play-Tic_Tac_Toe-4CAF50?style=for-the-badge&logo=boardgamegeek&logoColor=white" alt="Tic Tac Toe" />
-  
-  <!-- Random Programming Fact Generator -->
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=💡%20Programming%20Fact&lineCount=2&theme=github_dark&bg=0D1117&badge=00D4FF&border=30363D&titleColor=00D4FF&line1=Did%20you%20know%3F%20The%20first%20computer%20bug&line2=was%20an%20actual%20bug%20found%20in%201947!" alt="Programming Fact" />
-  
-  <!-- Visitor Counter as a Game -->
-  <img src="https://img.shields.io/badge/Visitors-🎮_Game_Score-00D4FF?style=for-the-badge" alt="Game Score" />
+  <!-- Snake Game -->
+  <img src="https://github.com/rgversoza/rgversoza/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
   
   <!-- Quote of the Day -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />

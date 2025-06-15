@@ -137,12 +137,6 @@ const rods = {
 
 <div align="center">
   
-  <!-- Snake Game -->
-  <img src="https://github.com/rgversoza/rgversoza/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-  
-  <!-- Spotify Playlist -->
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rgversoza&redirect=true&width=400&height=120&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playlist" />
-  
   <!-- Typing Test Game -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&height=50&lines=⌨️+Typing+Speed%3A+Challenge+Accepted!;🎯+WPM%3A+Fast+fingers+at+work;💻+Code+typing+in+progress..." alt="Typing Test" />
   

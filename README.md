@@ -20,7 +20,8 @@ const rods = {
   role: "Web Developer",
   passion: ["Web Development", "UI/UX Design", "Clean Code"],
   currentFocus: "Building Amazing Web Experiences",
-  lifePhilosophy: "Every project, every new technology, every challenge — it's all about taking that leap.",
+  lifePhilosophy:
+    "Every project, every new technology, every challenge — it's all about taking that leap.",
 
   getCurrentStatus: function () {
     return "Transforming ideas into interactive digital experiences ✨";
@@ -49,19 +50,24 @@ const rods = {
 <div align="center">
 
 ### **Frontend Magic** ✨
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
 
 ### **Backend Power** ⚡
+
 <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql" />
 
 ### **Laravel Ecosystem** 🚀
+
 <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 <img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament" />
 
 ### **Development Tools** 🛠️
+
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,linux,photoshop,postman" />
 
 ### **Environment** 💻
+
 <img src="https://img.shields.io/badge/VM-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VM" />
 
 </div>
@@ -131,20 +137,14 @@ const rods = {
 
 <div align="center">
   
+  <!-- Snake Game -->
+  <img src="https://github.com/rgversoza/rgversoza/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  
   <!-- Spotify Playlist -->
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rgversoza&redirect=true&width=400&height=120&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playlist" />
   
   <!-- Typing Test Game -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&height=50&lines=⌨️+Typing+Speed%3A+Challenge+Accepted!;🎯+WPM%3A+Fast+fingers+at+work;💻+Code+typing+in+progress..." alt="Typing Test" />
-  
-  <!-- Tic Tac Toe Game -->
-  <img src="https://img.shields.io/badge/🎯_Play-Tic_Tac_Toe-4CAF50?style=for-the-badge&logo=boardgamegeek&logoColor=white" alt="Tic Tac Toe" />
-  
-  <!-- Random Programming Fact Generator -->
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=💡%20Programming%20Fact&lineCount=2&theme=github_dark&bg=0D1117&badge=00D4FF&border=30363D&titleColor=00D4FF&line1=Did%20you%20know%3F%20The%20first%20computer%20bug&line2=was%20an%20actual%20bug%20found%20in%201947!" alt="Programming Fact" />
-  
-  <!-- Visitor Counter as a Game -->
-  <img src="https://img.shields.io/badge/Visitors-🎮_Game_Score-00D4FF?style=for-the-badge" alt="Game Score" />
   
   <!-- Quote of the Day -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
